@@ -1,0 +1,89 @@
+html{
+	width: 70%;
+	margin: 15%;
+	}
+body{
+	
+}
+.header{
+	font-family:"Lucida Grande","Segoe UI", Verdana, Georgia, "Times New Roman", Times, serif, Trebuchet , Arial,'PT Sans';
+	font-size: 1rem;
+	display: inline-block;
+	
+	background-color: black;
+	color: white;
+	width: 100%;
+}
+.logo{width: 20%;
+		margin: 3% 2%;
+		display: inline-block;
+background-color: rgba(158, 144, 238, 0.42);
+	}
+	nav{
+float: right;
+width:70%;
+	}
+li{display: inline-block;
+	width:13%;
+	margin: 1% 3%;
+color: white;
+}
+nav a{
+	text-decoration: none;
+	color: white;
+}
+
+.conteiner{
+	
+}
+	h1,h2,h3{
+text-align: center;
+
+	}
+	h3{
+
+	}
+	button{
+background-color: rgba(158, 144, 238, 0.42);
+margin: 3% ;
+	}
+	h2{
+
+	}
+	.articel {
+		display: flex;
+	}
+	p{color: white;
+font-weight: bold;
+
+   }
+   .p{    	
+   	background: #a34;
+   	padding: 1%;
+   	}
+	}
+.footer {
+background: #3c3;
+display: inline-block;
+
+}
+	.last{
+
+	}
+	@media screen (width: 850px)  {
+	nav	li{
+	width:30%;
+	margin: 1% 3%;
+color: red;
+}
+.allp{
+	float: left;
+	width:30%;
+	text-align: center;
+	background: yellow;
+	padding: 2px;
+}
+
+	
+
+
